@@ -13,7 +13,7 @@ def katmadegerciro(a,b,c,d,e):
         print("işletme katma değer cirosu normal")
     else:
         print("işletme katma değer cirosu düşük")
-          return katmadegerciro
+        return katmadegerciro
 print("lütfen değerleri giriniz")
 a=int(input("toplamsatismiktari:"))
 b=int(input("hammaddemaliyeti:"))
